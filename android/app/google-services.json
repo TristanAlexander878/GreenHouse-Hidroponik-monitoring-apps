@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "509952332279",
+    "project_id": "green-house-application-demo-2",
+    "storage_bucket": "green-house-application-demo-2.firebasestorage.app",
+    "database_url": "https://green-house-application-demo-2-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509952332279:android:1eb00e116a87fb37de5ef2",
+        "android_client_info": {
+          "package_name": "com.example.hidroponik_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3AyRk6fPddcm07DmYboe7xH-VegCyYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

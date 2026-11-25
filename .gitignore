@@ -1,0 +1,111 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Widget Preview related
+.widget_preview/
+
+# Kredensial lokal (jangan pernah di-commit)
+/lib/secrets.dart
+/env.json
+
+# Environment variables dan secrets
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+.env.test
+.env.staging
+*.env
+.envrc
+
+# API Keys dan credentials
+secrets.json
+secrets.yaml
+secrets.yml
+credentials.json
+service-account*.json
+*-credentials.json
+
+# Firebase private config
+firebase-debug.log
+firebase-debug.*.log
+.firebase/
+
+# Android signing keys
+*.jks
+*.keystore
+key.properties
+keystore.properties
+
+# iOS signing
+*.p12
+*.mobileprovision
+*.certSigningRequest
+ios/Runner/GoogleService-Info.plist
+
+# Certificates dan private keys
+*.pem
+*.key
+*.cert
+*.crt
+*.der
+*.p7b
+*.p7c
+*.pfx
+
+# Database dumps dan backups
+*.sql
+*.sqlite
+*.db
+*.dump
+
+# Config files dengan sensitive data
+config.local.*
+local.config.*
+.secret
+.secrets
+

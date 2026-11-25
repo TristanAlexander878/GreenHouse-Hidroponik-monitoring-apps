@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "green-house-application-demo-2",
+          "appId": "1:509952332279:android:1eb00e116a87fb37de5ef2",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "green-house-application-demo-2",
+          "configurations": {
+            "android": "1:509952332279:android:1eb00e116a87fb37de5ef2",
+            "ios": "1:509952332279:ios:23718c6ed66583cbde5ef2",
+            "macos": "1:509952332279:ios:23718c6ed66583cbde5ef2",
+            "web": "1:509952332279:web:0341d56d72866cc9de5ef2",
+            "windows": "1:509952332279:web:e15cd25ee2e7c700de5ef2"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}
