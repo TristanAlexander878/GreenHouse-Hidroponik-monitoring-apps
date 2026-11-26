@@ -66,6 +66,6 @@ The app listens to the following JSON schema in Firebase:
 ---
 
 ## 📸 Screenshots 
-| Mobile Dashboard 
+| Mobile Dashboard |
 | :---: | :---: |
 | <img width="381" height="848" alt="image" src="https://github.com/user-attachments/assets/2ae121e3-233c-4517-b427-7e0ca655c6ec" />
